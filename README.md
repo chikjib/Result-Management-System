@@ -1,2 +1,2 @@
-# result_management_system
-A School Result Management System built using Laravel (PHP)
+# Result Management System
+A School Result Management System built using Laravel (PHP) for Secondary Schools in Nigeria
